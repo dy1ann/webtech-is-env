@@ -1,6 +1,8 @@
-# webtech-is-env
-Programmeeromgeving voor Webtech: Implementatie &amp; Security.
+# Ontwikkelomgeving WTIS
 
-## versies
+Programmeeromgeving voor Web Technology: Implementation &amp; Security.
+
+## Versies
+
 - PHP 7.4
 - ODBC 17.5
